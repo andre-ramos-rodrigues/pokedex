@@ -21,3 +21,17 @@
     margin-bottom: 1.5em;
     line-height: 1.4em;
 }
+
+@media (max-width: 800px) {
+    .img {
+        display: none;
+    }
+
+    .description h1 {
+        font-size: 1.3em;
+    }
+
+    .description p {
+        font-size: 0.8em;
+    }
+}

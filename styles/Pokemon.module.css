@@ -61,7 +61,16 @@
 .height {
     border-right: 2px solid #ccc;
 }
-  
+
+
+@media(max-width: 800px){
+
+  .title{
+    width: 80%;
+    font-size: 1.5em;
+  }
+}
+
   .type_fire {
     background-color: #f42;
   }

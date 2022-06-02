@@ -7,7 +7,7 @@ export default function about() {
   return (
     <div className={styles.container}>
         <span className={styles.img}>
-            <Image src='../public/images/charizard.png' alt='charizard' height='400' width='400'/>
+            <Image src='/../public/images/charizard.png' alt='charizard' height='400' width='400'/>
         </span>
         <span className={styles.description}>
             <h2>Pokedex</h2>

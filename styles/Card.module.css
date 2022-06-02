@@ -50,3 +50,20 @@
     background-color: #e33d33;
     color: #fff;
 }
+
+@media(max-width: 800px) {
+
+.title {
+    font-size: 0.7em;
+}
+
+.btn {
+    font-size: 0.7em;
+    width: 55px;
+}
+
+.id {
+    font-size: 0.8em;
+}
+
+}
