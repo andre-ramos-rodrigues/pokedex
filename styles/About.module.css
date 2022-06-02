@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    margin-right: 50px;
+}
+
+.description {
+    text-align: center;
+}
+
+.description h1 {
+    font-size: 2em;
+    margin-bottom: 1.5em;
+}
+
+.description p {
+    margin-bottom: 1.5em;
+    line-height: 1.4em;
+}
